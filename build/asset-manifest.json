@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c4a6886d.chunk.css",
+    "main.js": "/static/js/main.99a526e4.chunk.js",
+    "main.js.map": "/static/js/main.99a526e4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6f4e32dc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6f4e32dc.js.map",
+    "static/js/2.9587b291.chunk.js": "/static/js/2.9587b291.chunk.js",
+    "static/js/2.9587b291.chunk.js.map": "/static/js/2.9587b291.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c4a6886d.chunk.css.map": "/static/css/main.c4a6886d.chunk.css.map",
+    "static/js/2.9587b291.chunk.js.LICENSE.txt": "/static/js/2.9587b291.chunk.js.LICENSE.txt",
+    "static/media/1.f5c98e1b.jpeg": "/static/media/1.f5c98e1b.jpeg",
+    "static/media/2.d32e1ce6.jpeg": "/static/media/2.d32e1ce6.jpeg",
+    "static/media/3.00240ef3.jpeg": "/static/media/3.00240ef3.jpeg",
+    "static/media/4.41c71100.jpeg": "/static/media/4.41c71100.jpeg",
+    "static/media/Asset 2.03a6cbe7.png": "/static/media/Asset 2.03a6cbe7.png",
+    "static/media/animal.ebea9c36.jpeg": "/static/media/animal.ebea9c36.jpeg",
+    "static/media/crucero.48a32ce6.png": "/static/media/crucero.48a32ce6.png",
+    "static/media/epcot.e53da50e.jpeg": "/static/media/epcot.e53da50e.jpeg",
+    "static/media/flight1.72de4398.jpeg": "/static/media/flight1.72de4398.jpeg",
+    "static/media/flight2.f08a4be4.jpeg": "/static/media/flight2.f08a4be4.jpeg",
+    "static/media/flight3.5a45ee88.jpeg": "/static/media/flight3.5a45ee88.jpeg",
+    "static/media/flight4.1dbffd29.jpeg": "/static/media/flight4.1dbffd29.jpeg",
+    "static/media/flight5.9e4ca7ec.jpeg": "/static/media/flight5.9e4ca7ec.jpeg",
+    "static/media/hotel1.f4b14a79.jpeg": "/static/media/hotel1.f4b14a79.jpeg",
+    "static/media/hotel2.d2c5d26a.jpeg": "/static/media/hotel2.d2c5d26a.jpeg",
+    "static/media/hotel3.9ea591c3.jpeg": "/static/media/hotel3.9ea591c3.jpeg",
+    "static/media/hotel4.33afe07b.jpeg": "/static/media/hotel4.33afe07b.jpeg",
+    "static/media/hotel5.8daceb77.jpeg": "/static/media/hotel5.8daceb77.jpeg",
+    "static/media/magicKingdom.3a14c123.jpeg": "/static/media/magicKingdom.3a14c123.jpeg",
+    "static/media/mickey.5a6337b5.jpeg": "/static/media/mickey.5a6337b5.jpeg",
+    "static/media/studios.a370d21d.jpeg": "/static/media/studios.a370d21d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f4e32dc.js",
+    "static/js/2.9587b291.chunk.js",
+    "static/css/main.c4a6886d.chunk.css",
+    "static/js/main.99a526e4.chunk.js"
+  ]
+}

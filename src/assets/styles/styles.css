@@ -1,0 +1,323 @@
+.form-container {
+  display: flex;
+  justify-content: center;
+}
+
+.form {
+  width: 50%;
+}
+
+.form-title {
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+
+.checkbox-form {
+  margin-bottom: 20px;
+  margin-top: 15px;
+}
+
+.content-container {
+  min-height: 600px;
+  margin-bottom: 50px;
+  padding-top: 50px;
+}
+
+.link {
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.logo-travel {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  margin-top: 30px;
+}
+
+.suggestion {
+  text-align: center;
+  color: blue;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  margin-top: 15px;
+}
+
+.flights-title {
+  margin-bottom: 50px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+  font-weight: 800;
+}
+
+.flights-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.flight-card {
+  width: 70%;
+  height: 140px;
+  border-radius: 10px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  margin-bottom: 35px;
+  padding: 20px;
+  background-color: rgb(226, 226, 226);
+  cursor: pointer;
+  transition: all 0.4s;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.flight-card:hover {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+.flight-card:active {
+  background-color: rgb(156, 156, 156);
+}
+
+.flight-data-container {
+  width: 33%;
+}
+
+.flight-date {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.flight-img-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.flight-img {
+  width: 90px;
+}
+
+/* Hotels */
+
+.hotels-title {
+  margin-bottom: 50px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+  font-weight: 800;
+}
+
+.hotels-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.hotel-card {
+  width: 70%;
+  height: 140px;
+  border-radius: 10px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  margin-bottom: 35px;
+  padding: 20px;
+  background-color: rgb(226, 226, 226);
+  cursor: pointer;
+  transition: all 0.4s;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.hotel-card:hover {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+.hotel-card:active {
+  background-color: rgb(156, 156, 156);
+}
+
+.hotel-data-container {
+  width: 33%;
+}
+
+.hotel-date {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.hotel-img-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.hotel-img {
+  width: 70px;
+}
+
+.all-inclusive {
+  color: rgb(172, 132, 0);
+}
+
+.helper-check {
+  color: rgb(0, 0, 131);
+}
+
+.error-message {
+  color: red;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.button-auth {
+  margin-top: 30px;
+}
+
+.home-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.home-card {
+  cursor: pointer;
+  background-color: rgb(226, 226, 226);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  transition: all 0.4s;
+}
+
+.home-card:hover {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+.home-card:active {
+  background-color: rgb(156, 156, 156);
+}
+
+.home-title {
+  text-align: center;
+  font-weight: 800;
+  margin-bottom: 80px;
+}
+
+.home-title span {
+  color: orange;
+}
+
+.navigation {
+  background-color: rgba(54, 180, 212, 0.26);
+}
+
+.account-title {
+  text-align: center;
+  font-weight: 800;
+}
+
+.actions-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.create-reservation {
+  width: 200px;
+  height: 50px;
+  color: rgb(33, 201, 33);
+  background-color: transparent;
+  border: 3px solid rgb(33, 201, 33);
+  transition: all 0.4s;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-weight: 600;
+}
+
+.create-reservation:hover {
+  background-color: rgba(33, 201, 33, 0.315);
+}
+
+.log-out {
+  width: 200px;
+  height: 50px;
+  color: rgb(16, 88, 221);
+  background-color: transparent;
+  border: 3px solid rgb(16, 88, 221);
+  transition: all 0.4s;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-weight: 600;
+}
+
+.log-out:hover {
+  background-color: rgba(16, 88, 221, 0.315);
+}
+
+.cancel-reservation {
+  width: 200px;
+  height: 50px;
+  color: red;
+  background-color: transparent;
+  border: 3px solid red;
+  transition: all 0.4s;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-weight: 600;
+}
+
+.cancel-reservation:hover {
+  background-color: rgba(255, 0, 0, 0.315);
+}
+
+.cancel-reservation-active {
+  width: 200px;
+  height: 50px;
+  color: white;
+  background-color: red;
+  border: 3px solid red;
+  transition: all 0.4s;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-weight: 600;
+}
+
+.cancel-reservation-active:hover {
+  background-color: rgba(255, 0, 0, 0.568);
+}
+
+.reservations-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+@media only screen and (min-width: 1500px) {
+  .flight-card {
+    width: 60%;
+  }
+
+  .hotel-card {
+    width: 60%;
+  }
+}

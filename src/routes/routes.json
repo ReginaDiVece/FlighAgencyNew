@@ -1,0 +1,9 @@
+{
+  "home": "/",
+  "disney": "/disney",
+  "hotels": "/hotels",
+  "flights": "/flights",
+  "login": "/login",
+  "signup": "/signup",
+  "account": "/account"
+}
